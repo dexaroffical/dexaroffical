@@ -18,7 +18,7 @@
 <h4>I organize and share many projects for you. Projects may not belong to me, I just edit and share.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://dexar.ml/ <br/>
-📫 How to reach me: dexariletisim@gmail.com <br/>
+📫 How to reach me: dexarcontact@gmail.com <br/>
 🧬 Npm Account: Cooming Soon!  <br/>
 🪶 Discord Account: Dexar#7443 <br/>
 </h3>
